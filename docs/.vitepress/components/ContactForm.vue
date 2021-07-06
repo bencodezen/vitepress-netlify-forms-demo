@@ -22,9 +22,9 @@ export default {}
     <p>
       <label>Message: <textarea name="message"></textarea></label>
     </p>
-    <p>
-      <button type="submit">Send</button>
-    </p>
+    <p>Test Button Text <button type="submit">Send</button></p>
+    <p>Hello more text after the button</p>
+    <button>New Submit</button>
   </form>
 </template>
 
